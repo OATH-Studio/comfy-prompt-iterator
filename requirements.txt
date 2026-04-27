@@ -1,0 +1,2 @@
+# All dependencies below are already bundled with a standard ComfyUI install.
+# This file is here for completeness — no extra pip installs are needed.
