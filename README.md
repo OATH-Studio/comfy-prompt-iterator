@@ -2,7 +2,7 @@
 
 A ComfyUI node that automatically steps through prompts in a text file on each generation run, so you can test multiple prompt variations without touching the graph between runs.
 
-https://www.theoath.studio/projects/comfy-prompt-iterator
+[https://www.theoath.studio/projects/comfy-prompt-iterator](https://www.theoath.studio/projects/comfy-prompt-iterator)
 
 ![Example Node](example-node.png)
 ---
